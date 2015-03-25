@@ -40,7 +40,7 @@ a:hover{
 	text-transform: uppercase;
 	font-size: 12px;
 	letter-spacing: 1px;
-	word-spacing: 30px;
+	word-spacing: 45px;
 	padding-bottom: 25px;
 	top: 65px;
 	position: relative;
@@ -116,9 +116,9 @@ h2 {
 	width: 940px;
 	}
 
-.column-left{ float: left; width: 30%; }
-.column-right{ float: right; width: 30%; }
-.column-center{ display: inline-block; width: 30%; }
+.column-left{ float: left; width: 32%; }
+.column-right{ float: right; width: 32%; }
+.column-center{ display: inline-block; width: 32%; }
 
 h3 { 
 	text-align: center; 
