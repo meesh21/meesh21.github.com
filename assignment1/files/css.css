@@ -74,7 +74,7 @@ hr {
 }
 
 h1 {
-	font-size: 33pt;
+	font-size: 30pt;
 	line-height: 57pt; 
 	line-spacing: -20;
 }
@@ -82,7 +82,7 @@ h1 {
 .h1text {
 	margin: 0 auto;
 	text-align: center;
-	width: 500px;
+	width: 600px;
 	line-height: 1.7;
 }
 
@@ -130,7 +130,7 @@ h3 {
 
 .h2text {
 	margin: 0 auto;
-	text-align: center;
+	text-align: justify;
 	width: auto;
 	line-height: 1.7;
 }
