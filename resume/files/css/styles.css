@@ -50,7 +50,7 @@ a:hover{
 .wrapper {
   width: 800px;
   height: 100%;
-  background: #ffffff url('files/img/ricepaper2.png') repeat;
+  background: #ffffff url('/resume/files/img/ricepaper2.png') repeat;
   margin: 0 auto;
   padding: 25px 50px 0 50px;
 }
