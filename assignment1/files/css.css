@@ -18,7 +18,7 @@ body {
 	color: #222222;
 }
 
-/* LINKS */ 
+
 a { 
 	text-decoration: none;
 	color: #df3b4d;
@@ -29,13 +29,13 @@ a:hover{
 	color: #222222;
 }
 
-/* TOP NAVIGATION LINKS */ 
+
 
 .navigation { 
 	font-family: Helvetica, sans-serif;
 	font-weight: bold;
 	text-align: center; 
-	margin: 0 auto;
+	margin: auto;
 	text-decoration: none; 
 	text-transform: uppercase;
 	font-size: 12px;
@@ -108,7 +108,7 @@ h2 {
 	border-bottom: 5px solid #e03d4e;
 }
 
-/* 3 COLUMNS FOR RECENT PRODUCTS */
+
 .container { 
 	text-align: center;
 	position: relative;
@@ -135,7 +135,7 @@ h3 {
 	line-height: 1.7;
 }
 
-/* BOTTOM */ 
+
 .bottom {
 	position: relative;
 	padding: 50px 50px 50px 50px;
