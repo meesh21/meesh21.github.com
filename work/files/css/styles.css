@@ -42,8 +42,8 @@ a:hover {
 
 
 #content {
-  width: 1000px;
-  margin: 100px auto 0px auto;
+  width: 500px;
+  margin: 25px auto 0px auto;
 }
 
 .project {
@@ -52,7 +52,7 @@ a:hover {
   background: #cccccc;
   color: #ffffff;
   text-align: center;
-  line-height: 100px;
+  line-height: 125px;
   float: left;
   margin-top: 40px;
   margin-right: 20px;
