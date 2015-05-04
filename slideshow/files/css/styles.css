@@ -1,5 +1,3 @@
-
-
 * {
   margin: 0;
 }
@@ -36,6 +34,7 @@ a:hover {
 }
 
 
+/* Header */
 
 header {
   width: 100%;
@@ -69,7 +68,7 @@ h2 {
   display: inline-block;
 }
 
-
+/* Content */
 
 #content {
   width: 940px;
@@ -114,4 +113,4 @@ h2 {
 
 #right-column {
   font-family: "museo-sans-1","museo-sans-2",sans-serif;
-} *
+}
